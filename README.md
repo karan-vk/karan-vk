@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Site Reliability Engineer | 🤖 AI/ML Enthusiast | 🦀 Rust Developer</h3>
 
 <p align="center">
-  <a href="https://twitter.com/karan_vk_n" target="_blank"><img src="https://img.shields.io/twitter/follow/your_twitter?style=social" alt="Twitter Follow"></a>
+  <a href="https://twitter.com/karan_vk_n" target="_blank"><img src="https://img.shields.io/twitter/follow/karan_vk_n?style=social" alt="Twitter Follow"></a>
   <a href="https://linkedin.com/in/karan-vk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://karanv.tech" target="_blank"><img src="https://img.shields.io/badge/-Website-FF7139?style=flat&logo=Firefox-Browser&logoColor=white" alt="Website"></a>
   <a href="mailto:karanvknarayanan@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
