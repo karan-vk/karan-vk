@@ -93,7 +93,8 @@
 
 ### 👨‍💼 Experience
 
-- **Site Reliability Engineer / InfraOps** at Rapyuta Robotics, Tokyo (02/2024 - Present)
+- **Site Reliability Engineer** at Sales Marker, Tokyo (12/2024 - Present)
+- **Site Reliability Engineer / InfraOps** at Rapyuta Robotics, Tokyo (02/2024 - 11/2024)
 - **Site Reliability Engineer** at FourKites, Inc., Chennai, TN (07/2023 - 02/2024)
 - **Site Reliability Engineer Intern** at FourKites, Chennai, TN (08/2022 - 06/2023)
 - **BlockChain Developer Intern** at IntelliConnect Technologies, Mumbai, MH (11/2021 - 04/2022)
