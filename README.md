@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&center=true&vCenter=true&width=1000&lines=Site+Reliability+Engineer+with+AI+expertise+at+Rapyuta+Robotics+Tokyo;Rust+expert+for+high-performance+systems;Optimizing+infrastructure+with+AI-driven+solutions;Building+reliable+and+scalable+systems+in+Rust;AI-powered+SRE+practices+for+next-gen+operations" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&center=true&vCenter=true&width=1000&lines=Site+Reliability+Engineer+with+AI+expertise+at+Sales+Marker+Tokyo;Rust+expert+for+high-performance+systems;Optimizing+infrastructure+with+AI-driven+solutions;Building+reliable+and+scalable+systems+in+Rust;AI-powered+SRE+practices+for+next-gen+operations" alt="Typing SVG">
 </p>
 
 ---
