@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&center=true&vCenter=true&width=1000&lines=Site+Reliability+Engineer+with+AI+expertise+at+Sales+Marker+Tokyo;Rust+expert+for+high-performance+systems;Optimizing+infrastructure+with+AI-driven+solutions;Building+reliable+and+scalable+systems+in+Rust;AI-powered+SRE+practices+for+next-gen+operations" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&center=true&vCenter=true&width=1000&lines=Senior+Platform+Engineer+(SRE)+with+AI+expertise+at+Cogent+Labs+Tokyo;Rust+expert+for+high-performance+systems;Optimizing+infrastructure+with+AI-driven+solutions;Building+reliable+and+scalable+systems+in+Rust;AI-powered+SRE+practices+for+next-gen+operations" alt="Typing SVG">
 </p>
 
 ---
@@ -93,7 +93,8 @@
 
 ### 👨‍💼 Experience
 
-- **Site Reliability Engineer** at Sales Marker, Tokyo (12/2024 - Present)
+- **Senior Platform Engineer (SRE)** at Cogent Labs, Tokyo (03/2026 - Present)
+- **Site Reliability Engineer** at Sales Marker, Tokyo (12/2024 - 02/2026)
 - **Site Reliability Engineer / InfraOps** at Rapyuta Robotics, Tokyo (02/2024 - 11/2024)
 - **Site Reliability Engineer** at FourKites, Inc., Chennai, TN (07/2023 - 02/2024)
 - **Site Reliability Engineer Intern** at FourKites, Chennai, TN (08/2022 - 06/2023)
