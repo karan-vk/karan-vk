@@ -4,7 +4,7 @@
   <img src="https://desphter.sirv.com/Images/4008923.png" alt="Profile Banner" width="50%">
 </p>
 
-<h3 align="center">🚀 Site Reliability Engineer | 🤖 AI/ML Enthusiast | 🦀 Rust Developer</h3>
+<h3 align="center">🚀 Platform Engineer/Site Reliability Engineer | 🤖 AI/ML Enthusiast | 🦀 Rust Developer</h3>
 
 <p align="center">
   <a href="https://twitter.com/karan_vk_n" target="_blank"><img src="https://img.shields.io/twitter/follow/karan_vk_n?style=social" alt="Twitter Follow"></a>
