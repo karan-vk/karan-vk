@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://desphter.sirv.com/Images/4008923.png" alt="Banner" width="34%">
-
-# Karan V
+<img src="./assets/header.jpg" alt="Karan V · Staff AI Engineer · Cogent ⍺" width="100%">
 
 **Staff AI Engineer @ Cogent Labs · Leading Engineering at Cogent ⍺ · Tokyo 🇯🇵**
 
