@@ -23,6 +23,7 @@
 ### ⚡ TL;DR
 
 - 🤖 **Staff AI Engineer** at **Cogent Labs**, leading the Engineering Division of **Cogent ⍺** (a Cogent Labs sub-brand)
+- 🧠 Focused on **AI infrastructure** at Cogent Labs, first as a Senior Platform Engineer and now as Staff AI Engineer
 - 🏗️ Came up through **Platform Engineering & SRE**: Cogent Labs, Sales Marker, Rapyuta Robotics, FourKites
 - 🏆 **LeetCode Top 200 worldwide**, both overall and in contests · 🌟 **#2 globally** on Advent of Code 2023, Day 15
 - 🎓 B.Tech CSE (AI & ML), **Top 1%** of my university · 💬 English · Tamil · French
@@ -32,6 +33,12 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=rust,py,go,ts,pytorch,tensorflow,sklearn,aws,gcp,azure,kubernetes,docker,terraform,prometheus,grafana,linux&perline=16" alt="Stack" />
+
+<sub><b>AI coding agents</b></sub><br/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code">
+<img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logoColor=white" alt="Codex">
+<img src="https://img.shields.io/badge/OpenCode-211E1E?style=flat-square&logo=opencode&logoColor=white" alt="OpenCode">
+<img src="https://img.shields.io/badge/T3_Code-A855F7?style=flat-square" alt="T3 Code">
 
 </div>
 
@@ -63,8 +70,8 @@
 
 | Role | Company | Period |
 | :-- | :-- | :-- |
-| **Staff AI Engineer** · Engineering Lead, Cogent ⍺ | Cogent Labs, Tokyo | Present |
-| Senior Platform Engineer (SRE) | Cogent Labs, Tokyo | 03/2026 → |
+| **Staff AI Engineer** · Engineering Lead, Cogent ⍺ · AI infrastructure | Cogent Labs, Tokyo | Present |
+| Senior Platform Engineer · AI infrastructure | Cogent Labs, Tokyo | 03/2026 → |
 | Site Reliability Engineer | Sales Marker, Tokyo | 12/2024 – 02/2026 |
 | Site Reliability Engineer / InfraOps | Rapyuta Robotics, Tokyo | 02/2024 – 11/2024 |
 | Site Reliability Engineer | FourKites, Chennai | 07/2023 – 02/2024 |
