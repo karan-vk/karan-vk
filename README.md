@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://karanv.tech"><img src="https://img.shields.io/badge/karanv.tech-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"></a>
+<a href="https://karanvk.me"><img src="https://img.shields.io/badge/karanvk.me-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"></a>
 <a href="https://linkedin.com/in/karan-vk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/karan_vk_n"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
 <a href="mailto:karanvknarayanan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
